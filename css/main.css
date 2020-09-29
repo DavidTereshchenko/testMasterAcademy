@@ -1,0 +1,27 @@
+body {
+    border: 0;
+    background-image: url(https://wallpaperaccess.com/full/2564042.jpg);
+}
+
+form {
+    margin:  auto;
+    margin-top: 20%;
+}
+.result-ext {
+    margin: 0 auto;
+}
+
+.result-text {
+    font-size: 50px;
+    width: 30%;
+    margin: auto;
+    font-family: 'Bangers', cursive;
+}
+
+.valide-text {
+    color: green;
+}
+
+.error-text  {
+    color: red ;
+}
